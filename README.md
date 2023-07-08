@@ -1,4 +1,4 @@
-Amazon Product Data Scraper and Analyzer
+#Amazon Product Data Scraper and Analyzer
 This project aims to scrape and analyze data for a specific product category from Amazon. It provides a Python-based web scraping script that extracts information such as product descriptions, prices, ratings, review counts, and URLs for the desired product category. The extracted data is then stored in a CSV file for further analysis.
 
 Features
@@ -23,7 +23,7 @@ Modify the code to specify the desired product category by updating the search t
 
 Run the script by executing python scrape_data.py. The script will start scraping data from Amazon and store the extracted data in a CSV file named after the search term.
 
-Perform data analysis and exploration on the extracted data using pandas or other data analysis tools. You can modify the code to suit your specific analysis needs, such as calculating statistics, creating visualizations, or conducting further research.
+Perform data analysis and exploration of the extracted data using pandas or other data analysis tools. You can modify the code to suit your specific analysis needs, such as calculating statistics, creating visualizations, or conducting further research.
 
 Contributions
 Contributions to this project are welcome. If you have any suggestions, bug fixes, or additional features to add, feel free to open an issue or submit a pull request.
