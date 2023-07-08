@@ -16,7 +16,7 @@ This project aims to scrape and analyze data for a specific product category fro
 
 **Usage**
 
-Clone the repository or download the code files.
+->Clone the repository or download the code files.
 
 ->Install the required dependencies by running pip install -r requirements.txt. This will install the necessary libraries, including Pandas, BeautifulSoup, and Selenium.
 
